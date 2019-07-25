@@ -1,0 +1,48 @@
+#tableau{
+    text-justify: distribute-all-lines
+}
+
+#input1{
+    margin-left: 10%;
+    text-justify: inter-cluster;
+}
+#input2{
+    margin-left: 7%;
+    text-justify: inter-cluster;
+}
+#input3{
+    margin-left: 19%;
+    text-justify: inter-cluster;
+}
+#input4{
+    margin-left: 18%;
+    text-justify: inter-cluster;
+}
+#input5{
+    margin-left: 4%;
+    text-justify: inter-cluster;
+}
+#input6{
+    margin-left: 5%;
+    text-justify: inter-cluster;
+}
+#input7{
+    margin-left: 14%;
+    text-justify: inter-cluster;
+}
+#inputhh{
+    margin-left: 10%;
+    text-justify: inter-cluster;
+}
+form {
+    
+    margin-top: 10% ;
+    padding: 10px;
+    background: #f3671f;
+    border: 4px solid #d05c62 ;
+    border-style:double !important;
+  }
+
+  body{
+      background:#ca536d
+  }
